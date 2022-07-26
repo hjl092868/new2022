@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd07951e-d1d8-4a89-8175-4b4cc83bed58" name="Default Changelist" comment="" />
+    <list default="true" id="cd07951e-d1d8-4a89-8175-4b4cc83bed58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about_python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about_python/instantiation_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about_python/update_wrapper_functools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/new2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new2022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,28 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_algorithm/NLR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_algorithm/recover_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_django/tasks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="225">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="e#25#50#0" expanded="true" />
               </folding>
@@ -43,11 +33,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about_algorithm/draft.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_python/instantiation_call.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            <state relative-caret-position="315">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_python/update_wrapper_functools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_socket/define_socket_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -117,16 +134,17 @@
       <find>print</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/about_socket/define_socket.py" />
-        <option value="$PROJECT_DIR$/about_socket/define_socket_client.py" />
         <option value="$PROJECT_DIR$/about_algorithm/quit_sort.py" />
         <option value="$PROJECT_DIR$/about_algorithm/maopao_sort.py" />
         <option value="$PROJECT_DIR$/about_algorithm/files_script.py" />
         <option value="$PROJECT_DIR$/about_algorithm/kmp.py" />
-        <option value="$PROJECT_DIR$/about_socket/define_socket_server.py" />
         <option value="$PROJECT_DIR$/about_algorithm/zuichang_qianzhui.py" />
         <option value="$PROJECT_DIR$/about_algorithm/word_transfer.py" />
         <option value="$PROJECT_DIR$/about_algorithm/word_transfer2.py" />
@@ -135,21 +153,27 @@
         <option value="$PROJECT_DIR$/about_algorithm/NLR.py" />
         <option value="$PROJECT_DIR$/about_algorithm/recover_tree.py" />
         <option value="$PROJECT_DIR$/about_django/task.py" />
+        <option value="$PROJECT_DIR$/about_socket/define_socket_server.py" />
+        <option value="$PROJECT_DIR$/about_socket/define_socket_client.py" />
         <option value="$PROJECT_DIR$/about_django/tasks.py" />
+        <option value="$PROJECT_DIR$/about_python/update_wrapper_functools.py" />
+        <option value="$PROJECT_DIR$/about_python/instantiation_call.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="158" />
-    <option name="y" value="-1415" />
-    <option name="width" value="2191" />
-    <option name="height" value="1163" />
+    <option name="x" value="-429" />
+    <option name="y" value="-1179" />
+    <option name="width" value="1893" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +194,11 @@
             <path>
               <item name="new2022" type="b2602c69:ProjectViewProjectNode" />
               <item name="new2022" type="462c0819:PsiDirectoryNode" />
+              <item name="about_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new2022" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new2022" type="462c0819:PsiDirectoryNode" />
               <item name="about_socket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -181,10 +210,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -203,21 +232,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.recover_tree">
-    <configuration name="NLR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.update_wrapper_functools">
+    <configuration name="define_socket_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="new2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/about_algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="/usr/local/anaconda3/envs/py39/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/about_socket" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_algorithm/NLR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_socket/define_socket_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,6 +277,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="instantiation_call" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="new2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/anaconda3/envs/py39/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/about_python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_python/instantiation_call.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="recover_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="new2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_transfer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="update_wrapper_functools" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="new2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,34 +329,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/about_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/about_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_algorithm/word_transfer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="word_transfer2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="new2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/about_algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_algorithm/word_transfer2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/about_python/update_wrapper_functools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,11 +368,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.update_wrapper_functools" />
+        <item itemvalue="Python.instantiation_call" />
+        <item itemvalue="Python.define_socket_server" />
         <item itemvalue="Python.recover_tree" />
         <item itemvalue="Python.draft" />
-        <item itemvalue="Python.NLR" />
-        <item itemvalue="Python.word_transfer2" />
-        <item itemvalue="Python.word_transfer" />
       </list>
     </recent_temporary>
   </component>
@@ -362,12 +391,15 @@
       <workItem from="1657465143819" duration="6472000" />
       <workItem from="1657694047022" duration="294000" />
       <workItem from="1657763427078" duration="829000" />
-      <workItem from="1658045940406" duration="4456000" />
+      <workItem from="1658045940406" duration="4650000" />
+      <workItem from="1658113298594" duration="3778000" />
+      <workItem from="1658474221993" duration="3080000" />
+      <workItem from="1658801898495" duration="6872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60675000" />
+    <option name="totallyTimeSpent" value="74599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,24 +411,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="158" y="-1415" width="2191" height="1163" extended-state="0" />
+    <frame x="-429" y="-1179" width="1893" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15030247" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11831442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28190744" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3563715" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39740822" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991612" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3224568" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.37826088" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31314072" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4352052" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -407,19 +440,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="研究new、init、call方法的&#10;&amp;&amp; 研究functools里面的update_wrapper这个方法的用意" />
+    <option name="LAST_COMMIT_MESSAGE" value="研究new、init、call方法的&#10;&amp;&amp; 研究functools里面的update_wrapper这个方法的用意" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/about_python/instantiation_call.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/new2022$instantiation_call.coverage" NAME="instantiation_call Coverage Results" MODIFIED="1658807646159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_python" />
     <SUITE FILE_PATH="coverage/new2022$files_script.coverage" NAME="files_script Coverage Results" MODIFIED="1652404713783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
     <SUITE FILE_PATH="coverage/new2022$draft.coverage" NAME="draft Coverage Results" MODIFIED="1655691616811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
     <SUITE FILE_PATH="coverage/new2022$define_socket_client.coverage" NAME="define_socket_client Coverage Results" MODIFIED="1652258085361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_socket" />
     <SUITE FILE_PATH="coverage/new2022$maopao_sort.coverage" NAME="maopao_sort Coverage Results" MODIFIED="1652403290699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
     <SUITE FILE_PATH="coverage/new2022$quit_sort.coverage" NAME="quit_sort Coverage Results" MODIFIED="1652371888426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
-    <SUITE FILE_PATH="coverage/new2022$zuichang_qianzhui.coverage" NAME="zuichang_qianzhui Coverage Results" MODIFIED="1653634394945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
-    <SUITE FILE_PATH="coverage/new2022$recover_tree.coverage" NAME="recover_tree Coverage Results" MODIFIED="1657764341754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
+    <SUITE FILE_PATH="coverage/new2022$update_wrapper_functools.coverage" NAME="update_wrapper_functools Coverage Results" MODIFIED="1658817959159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_python" />
     <SUITE FILE_PATH="coverage/new2022$kmp.coverage" NAME="kmp Coverage Results" MODIFIED="1652968236658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
-    <SUITE FILE_PATH="coverage/new2022$word_transfer.coverage" NAME="word_transfer Coverage Results" MODIFIED="1653985511722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
-    <SUITE FILE_PATH="coverage/new2022$define_socket_server.coverage" NAME="define_socket_server Coverage Results" MODIFIED="1652257929251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_socket" />
+    <SUITE FILE_PATH="coverage/new2022$define_socket_server.coverage" NAME="define_socket_server Coverage Results" MODIFIED="1658475449421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_socket" />
     <SUITE FILE_PATH="coverage/new2022$word_transfer2.coverage" NAME="word_transfer2 Coverage Results" MODIFIED="1654569663678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
     <SUITE FILE_PATH="coverage/new2022$NLR.coverage" NAME="NLR Coverage Results" MODIFIED="1655296648436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
+    <SUITE FILE_PATH="coverage/new2022$zuichang_qianzhui.coverage" NAME="zuichang_qianzhui Coverage Results" MODIFIED="1653634394945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
+    <SUITE FILE_PATH="coverage/new2022$recover_tree.coverage" NAME="recover_tree Coverage Results" MODIFIED="1657764341754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
+    <SUITE FILE_PATH="coverage/new2022$word_transfer.coverage" NAME="word_transfer Coverage Results" MODIFIED="1653985511722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/about_algorithm" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/new2022/urls.py">
@@ -432,20 +482,6 @@
           <folding>
             <element signature="e#42#51#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_socket/define_socket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_socket/define_socket_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -464,10 +500,31 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/Python笔试题20220512.md" />
+    <entry file="file:///usr/local/anaconda3/envs/py39/lib/python3.9/site-packages/celery/app/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="426" selection-start-line="426" selection-end-line="426" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about_algorithm/NLR.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_algorithm/recover_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_socket/define_socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -513,27 +570,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_algorithm/recover_tree.py">
+    <entry file="file://$PROJECT_DIR$/about_socket/define_socket_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/anaconda3/envs/py39/lib/python3.9/site-packages/celery/app/task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="426" selection-start-line="426" selection-end-line="426" />
+        <state relative-caret-position="210">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_django/tasks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="e#25#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_python/update_wrapper_functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_python/instantiation_call.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
